@@ -4016,10 +4016,10 @@ ember-cli@~3.3.0:
     watch-detector "^0.1.0"
     yam "^0.0.24"
 
-ember-composable-helpers@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/ember-composable-helpers/-/ember-composable-helpers-2.3.1.tgz#db98ad8b55d053e2ac216b9da091c9e7a3b9f453"
-  integrity sha512-Eltj5yt2CtHhBMrdsjKQTP1zFyfEXQ5/v85ObV2zh0eIJZa1t/gImHN+GIHHuJ+9xOrCUAy60/2TJZjadpoPBQ==
+ember-composable-helpers@^3.0.2:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/ember-composable-helpers/-/ember-composable-helpers-3.2.0.tgz#6eb03626cf21d7cdcec4b949ac202c0cef43f4c3"
+  integrity sha512-OBnwpDkeOnDBMGQ/96B7TUy3e3wR1dqmAJ8+zDQTEjWrrCztKFg2dNGzCJchN1AD1i4FS4B/9iloAnn1pPWw8w==
   dependencies:
     "@babel/core" "^7.0.0"
     broccoli-funnel "2.0.1"
